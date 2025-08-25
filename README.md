@@ -40,7 +40,7 @@
 ### 📊 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elbaz3&show_icons=true&theme=tokyonight" alt="elbaz3" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elbaz3&theme=tokyonight" alt="elbaz3" />
+<img src="https://streak-stats.demolab.com/?user=elbaz3&theme=tokyonight" alt="elbaz3" />
 </p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=elbaz3&label=Profile%20Views&color=brightgreen&style=flat" alt="elbaz3" /> 
