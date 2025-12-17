@@ -3,7 +3,7 @@
 <h3 align="center"> A Software Engineer | Focused on Web Development </h3>
 
 
-https://chatgpt.com/share/694263d4-3afc-800e-834d-e399f2a8e466
+
 ---
 
 ###  About Me  
